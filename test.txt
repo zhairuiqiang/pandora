@@ -10,3 +10,7 @@ git pull origin master
 
 也就是最后一步，上传代码到github远程仓库
 git push -u origin master
+
+
+-教你上传本地代码到github
+http://blog.csdn.net/hanhailong726188/article/details/46738929
