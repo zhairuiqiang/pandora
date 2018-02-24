@@ -1,4 +1,4 @@
-
+得到
 重点来了，将本地的仓库关联到github上
 
 git remote add origin https://github.com/hanhailong/CustomRatingBar1
